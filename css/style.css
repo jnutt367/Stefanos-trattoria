@@ -1,0 +1,53 @@
+
+body {
+	background: white;
+}
+
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr 2fr;
+  grid-template-rows: 3fr 3fr;
+  grid-gap: 20px;
+  
+}
+.grid-item item-1{
+	background: grey;
+}
+.grid-item item-2{
+	background: black;
+}
+.grid-item item-3{
+	background: silver;
+}
+.grid-item item-4{
+	background: grey;
+}
+.grid-item item-5{
+	background: black;
+}
+.grid-item item-6{
+	background: silver;
+}
+.grid-item item-7{
+	background: grey;
+}
+.grid-item item-8{
+	background: black;
+}
+.grid-item item-9{
+	background: green;
+}
+.grid-item item-10{
+	background: silver;
+}
+.grid-item item-11{
+	background: grey;
+}
+.grid-item item-12{
+	background: black;
+}
